@@ -1,3 +1,5 @@
+# For context: this is Challenge 1 of the Google Foobar Challenge - it is explained in more detail and provided with an alternative solution here: https://ourcodeworld.com/articles/read/1512/how-to-create-a-dictionary-of-the-reversed-alphabet-to-encode-and-decode-text-with-javascript 
+
 def solution(x):
     alphabet = list("abcdefghijklmnopqrstuvwxyz")
 
